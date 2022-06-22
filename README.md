@@ -1,7 +1,7 @@
 # WallEEE -Tracked Rover with Arm
 
 ## Rover Name: ***WallEE***
- ![this is an image](img.jpg "Optional title")
+ ![this is an image](IMG_20220622_110519.jpg "Optional title")
 ## Rover Arm Type: ***MeArm***
  
  
