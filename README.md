@@ -1,11 +1,9 @@
-# WallEEE -Tracked Rover
-
-# Tracked Rover with Arm
+# WallEEE -Tracked Rover with Arm
 
 <br/>
- ***Rover Name: WallEE***
+ ## Rover Name: ***WallEE***
  <br/>
- ***Rover Arm: MeArm***
+ ## Rover Arm Type: ***MeArm***
  <br/>
  
  
@@ -18,7 +16,7 @@
 - 2pc-ULN-2003 Motor Driver --Controls The Arm Stepper Motors
 - 1pc-MG Servo Motor
 - 1pc-SG Servo Motor
-
+<br/>
 ## Firmware version: v0.1
 
 - Framework Modules: 
