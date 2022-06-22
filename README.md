@@ -1,10 +1,8 @@
 # WallEEE -Tracked Rover with Arm
 
-<br/>
- ## Rover Name: ***WallEE***
- <br/>
- ## Rover Arm Type: ***MeArm***
- <br/>
+## Rover Name: ***WallEE***
+ 
+## Rover Arm Type: ***MeArm***
  
  
 ## HardWare Components:
@@ -16,9 +14,8 @@
 - 2pc-ULN-2003 Motor Driver --Controls The Arm Stepper Motors
 - 1pc-MG Servo Motor
 - 1pc-SG Servo Motor
-<br/>
-## Firmware version: v0.1
 
+## Firmware version: v0.1
 - Framework Modules: 
 - DHT-22 -For taking Temp and Humidity Reading
 - HC-SR04 -UltraSonic Distance Calculator
