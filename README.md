@@ -1,8 +1,8 @@
 # Robot
-# Tracked Rover with Arm
-# Rover Name: WallEE
-# Rover Arm: MeArm
-# HardWare Components:
+## Tracked Rover with Arm
+## Rover Name: WallEE
+## Rover Arm: MeArm
+## HardWare Components:
 # 3pc-74HC595N Shift Registers --Controls The Primary Display, The HeadLights and The Status LEDS
 # 1pc-Common Cathode 4 Digit 7 Segment Display -- The primary Display 
 # 2pc-12V DC Motors with Gear Reduction
