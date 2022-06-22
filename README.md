@@ -16,7 +16,7 @@
 - 1pc-SG Servo Motor
 
 ## Firmware version: v0.1
-- Framework Modules: 
+***Libraries and Methods Used:*** 
 - DHT-22 -For taking Temp and Humidity Reading
 - HC-SR04 -UltraSonic Distance Calculator
 - IR Remote -IR Remote Control
